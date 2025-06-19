@@ -1,0 +1,20 @@
+# Compiled files
+*.o
+snake_game
+snake_gui
+
+# Runtime-generated data files
+*.txt
+!user_scores.txt		//pochlubim se :>
+!obstacles.txt         
+!settings.txt          
+
+# Backup and system files
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Editor/IDE metadata
+.vscode/
+.idea/
